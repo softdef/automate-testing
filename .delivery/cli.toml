@@ -1,0 +1,7 @@
+server = "automate-2.c.xs-starry-acre-3.internal"
+api_protocol = "https"
+user = "chefadmin"
+enterprise = "default"
+organization = "test-workflow"
+git_port = "8989"
+pipeline = "master"
